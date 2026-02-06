@@ -1,0 +1,20 @@
+#sobre_nos{
+   color: white; 
+}
+#mf{
+   width: 280px;
+   height: 190px;
+}
+#cabeça{
+   display: flex;
+}
+#pr{
+   text-align: center;
+}
+#video, iframe {
+   width: 90%;
+   max-width: 900px;
+   position: relative;
+   overflow: hidden;
+   border-radius: 20px;
+}
